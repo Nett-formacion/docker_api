@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/api_base.iml" filepath="$PROJECT_DIR$/.idea/api_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../copia/.idea/copia.iml" filepath="$PROJECT_DIR$/../copia/.idea/copia.iml" />
       <module fileurl="file://$USER_HOME$/web/probando_jwt_api_auth/.idea/probando_jwt_api_auth.iml" filepath="$USER_HOME$/web/probando_jwt_api_auth/.idea/probando_jwt_api_auth.iml" />
     </modules>
   </component>

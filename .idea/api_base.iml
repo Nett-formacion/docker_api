@@ -5,5 +5,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="probando_jwt_api_auth" />
+    <orderEntry type="module" module-name="copia" />
   </component>
 </module>
